@@ -1,0 +1,23 @@
+{
+  "name": "@litarussell/eslint-config",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "litarussell <litarussell@qq.com> (https://github.com/litarussell)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@litarussell/eslint-config-react": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
