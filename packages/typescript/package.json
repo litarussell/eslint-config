@@ -1,0 +1,27 @@
+{
+  "name": "@litarussell/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "litarussell <litarussell@qq.com> (https://github.com/litarussell)",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "typescript": "^4.6.2"
+  },
+  "peerDependencies": {
+    "eslint": "^8.11.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@litarussell/eslint-config-basic": "^0.0.1",
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0"
+  }
+}

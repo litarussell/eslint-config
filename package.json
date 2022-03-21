@@ -1,0 +1,10 @@
+{
+  "name": "eslint-config",
+  "version": "0.0.1",
+  "description": "",
+  "author": "litarussell <litarussell@qq.com> (https://github.com/litarussell)",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
