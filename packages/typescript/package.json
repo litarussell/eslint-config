@@ -1,6 +1,6 @@
 {
   "name": "@litarussell/eslint-config-ts",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "author": "litarussell <litarussell@qq.com> (https://github.com/litarussell)",
@@ -20,7 +20,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "@litarussell/eslint-config-basic": "^0.0.1",
+    "@litarussell/eslint-config-basic": "^0.1.0",
     "@typescript-eslint/eslint-plugin": "^5.15.0",
     "@typescript-eslint/parser": "^5.15.0"
   }
