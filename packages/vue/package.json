@@ -1,0 +1,27 @@
+{
+  "name": "@litarussell/eslint-config-vue",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "dependencies": {
+    "@litarussell/eslint-config-ts": "^0.3.0",
+    "eslint-plugin-vue": "^8.5.0"
+  }
+}
