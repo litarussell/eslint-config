@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/litarussell/eslint-config/compare/v0.2.0...v0.3.0) (2022-04-04)
+
+
+### Features
+
+* add markdown format ([033c205](https://github.com/litarussell/eslint-config/commit/033c2053abf8318d60952a28344c50b936438a09))
+
+
+
+
+
 # [0.2.0](https://github.com/litarussell/eslint-config/compare/v0.1.0...v0.2.0) (2022-03-21)
 
 

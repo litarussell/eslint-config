@@ -1,6 +1,6 @@
 {
   "name": "@litarussell/eslint-config-react",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "",
   "main": "index.js",
   "author": "litarussell <litarussell@qq.com> (https://github.com/litarussell)",
@@ -12,7 +12,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@litarussell/eslint-config-ts": "^0.2.0",
+    "@litarussell/eslint-config-ts": "^0.3.0",
     "eslint-plugin-react": "^7.29.4"
   },
   "devDependencies": {
